@@ -63,19 +63,16 @@ body {
 <body oncontextmenu="if (!window.__cfRLUnblockHandlers) return false; return false;" onkeydown="if (!window.__cfRLUnblockHandlers) return false; return false;" onmousedown="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-1120e176b5cc1e92d0092e2d-="">
 <FONT style="text-decoration:none;text-shadow:0px 0px 20px #c70000" color=#c70000><CENTER><BIG>&#9733; &#9733; &#9733; &#9733; &#9733; &#9733;</BIG></CENTER></FONT>
 <center>
-<img src="https://www.teahub.io/photos/full/51-512531_islamic-wallpaper-hd.jpg" width="450" height="350">
+<img src="https://e3.365dm.com/19/04/512x512/skynews-julian-assange-arrested_4635840.jpg" width="450" height="350">
 </center>
-<a div id="center"> <font color="white" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" size="7" face="Rajdhani"> Hacked by <font color=#c70000> </font> <a style="text-decoration:none;text-shadow:0px 0px 20px #c70000" href="https://t.me/turkishacktivist"> <font color=#c70000> RootAyyıldız </a></font>
+<a div id="center"> <font color="white" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" size="7" face="Rajdhani"> Defaced by <font color=#c70000> </font> <a style="text-decoration:none;text-shadow:0px 0px 20px #c70000" href="https://t.me/turkishacktivist"> <font color=#c70000> RootAyyıldız </a></font>
 <div style="line-height:20%;">
 <br>
 </div>
-<div id="center"> <font color="white" size="6" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" face="Rajdhani"> Allah’ı unutan, bu yüzden Allah’ın da onlara kendilerini unutturdugu kimseler gibi olmayın. Iste onlar gerçekten yoldan çıkmıslardır.</a></div>
-<div id="center"> <font color="white" size="6" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" face="Rajdhani">Do not be like those who forgot Allah, so Allah made them forget themselves. Here they really went astray.</a></div>
-<div id="center"> <font color="#c70000" size="6" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" face="Rajdhani">www.instagram.com/rootayyildiz/</a></div>
-<div id="center"> <font color="#c70000" size="6" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" face="Rajdhani">www.facebook.com/rootayyildiz</a></div>
+<div id="center"> <font color="white" size="6" style="text-decoration:none;text-shadow:0px 0px 20px #c70000" face="Rajdhani"> you are greedy people, you are a bunch of brokers who treat people like heroes and want to earn money by selling products to them</a></div>
 <div style="line-height:40%;">
 <br>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/OVq3k0nU5SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Hb0FcFq_OEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div>
 </body>
 </script></center>
